@@ -16,7 +16,7 @@ A simple Python script that adds bullet points to the start of each line of text
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 - `pyperclip` (`pip install pyperclip`)
 
 ## Files
